@@ -17,3 +17,4 @@ jobs:
             IMG_PATH: assets
             ALIGN: center
             WIDTH: 100%
+            HEIGHT: 100%
