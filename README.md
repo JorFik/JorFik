@@ -1,6 +1,6 @@
-<div align="center">
-  <img height="250" src="https://i.imgur.com/okmNSlY.gif"  />
-</div>
+<p align="center">
+  <img src="./assets/link.gif" width="100%" alt="Github Banner" />
+</p>
 
 ###
 
