@@ -44,12 +44,12 @@
   <table align="center">
     <tr>
       <td align="center" rowspan="2">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorFik&locale=en&hide_title=true&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&bg_color=00000000&size_weight=0.5&count_weight=0.5&layout=pie" height="330" alt="languages graph" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorFik&locale=en&hide_title=true&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&bg_color=00000000&size_weight=0.5&count_weight=0.5&layout=pie" height="330" alt="languages graph" />
       </td>
       <td align="center">
         <picture>
           <source
-            srcset="https://github-readme-stats.vercel.app/api?username=JorFik&show_icons=true&theme=gruvbox&bg_color=00000000"
+            srcset="https://github-readme-stats.vercel.app/api?username=JorFik&show_icons=true&theme=gruvbox&bg_color=00000000&hide_border=true"
             media="(prefers-color-scheme: dark)"
           />
           <source
@@ -62,7 +62,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://streak-stats.demolab.com?user=JorFIk&theme=gruvbox&short_numbers=true&date_format=j%20M%5B%20Y%5D&background=83FFB200&mode=weekly" height="150" alt="streak graph" />
+        <img src="https://streak-stats.demolab.com?user=JorFIk&theme=gruvbox&short_numbers=true&date_format=j%20M%5B%20Y%5D&background=83FFB200&mode=weekly&hide_border=true" height="150" alt="streak graph" />
       </td>
     </tr>
   </table>
