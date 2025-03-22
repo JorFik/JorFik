@@ -4,19 +4,38 @@
 
 <h2 align="center">👋 Hello, World!</h2>
 
+
+<table align="center">
+  <tr>
+    <td align="center" rowspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorFik&locale=en&hide_title=true&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&bg_color=00000000&size_weight=0.5&count_weight=0.5&layout=pie" height="330" alt="languages graph" />
+    </td>
+    <td align="center">
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=JorFik&show_icons=true&theme=gruvbox&bg_color=00000000"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=JorFik&show_icons=true"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api?username=JorFik&show_icons=true&include_all_commits=true&count_private=true" height="150" alt="stats graph"/>
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=JorFIk&theme=gruvbox&short_numbers=true&date_format=j%20M%5B%20Y%5D&background=83FFB200&mode=weekly" height="150" alt="streak graph" />
+    </td>
+  </tr>
+</table>
+
+<!-- ![Github Trophies](https://github-profile-trophy.vercel.app/?username=JorFik&theme=gruvbox&column=-1&margin-w=15&margin-h=15&no-frame=true&no-bg=true) -->
+
 <p align="center">
   I'm a student at 42 Heilbronn, originally from Mexico, with an insatiable curiosity and a passion for continuous learning. My journey in programming is driven by the desire to write efficient and elegant code while always seeking to expand my knowledge and skills.
 </p>
-
-<!-- <br clear="both"> -->
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JorFik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=JorFik&locale=en&mode=weekly&theme=gruvbox&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JorFik&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-<br clear="both">
 
 <h2 align="center"> 🚀 About Me </h2>
 
@@ -76,11 +95,6 @@
     </tr>
 </table>
 
-  <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JorFik&layout=compact&theme=gruvbox&hide_border=false" height="150" alt="wakatime graph"  /> -->
-  <!-- <img src="https://github-profile-trophy.vercel.app/?username=JorFik&theme=gruvbox&column=7&margin-w=15&margin-h=15" alt="trophy" /> -->
-
-###
-
 <h2 align="center">📜 My Coding Creed</h3>
 
 <dev align="left">
@@ -127,3 +141,8 @@
 </p>
 
 <h3 align="center"><strong>Happy coding! 🚀</strong></h3>
+
+  <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JorFik&layout=compact&theme=gruvbox&hide_border=false" height="150" alt="wakatime graph" /> -->
+
+  <!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JorFik)](https://github.com/JorFik/github-readme-stats) -->
+
