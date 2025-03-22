@@ -1,88 +1,117 @@
-<p align="center">
 <!--START_SECTION:update_image-->
 <img src=https://raw.githubusercontent.com/JorFik/JorFik/master/assets/dark_souls.gif height=100% width=100% align=center alt=Github Banner />
 <!--END_SECTION:update_image-->
-</p>
-
-###
 
 <h2 align="center">👋 Hello, World!</h2>
 
-###
+<p align="center">
+  I'm a student at 42 Heilbronn, originally from Mexico, with an insatiable curiosity and a passion for continuous learning. My journey in programming is driven by the desire to write efficient and elegant code while always seeking to expand my knowledge and skills.
+</p>
 
-<br clear="both">
-
-<h4 align="center">I'm a student at 42 Heilbronn, originally from Mexico, with an insatiable curiosity and a passion for continuous learning. My journey in programming is driven by the desire to write efficient and elegant code while always seeking to expand my knowledge and skills.</h4>
-
-###
-
-<br clear="both">
+<!-- <br clear="both"> -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JorFik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=JorFik&locale=en&mode=weekly&theme=gruvbox&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JorFik&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=JorFik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false" height="125" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=JorFik&locale=en&mode=weekly&theme=gruvbox&hide_border=false&border_radius=5" height="125" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JorFik&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false" height="125" alt="languages graph"  />
 </div>
-
-###
-
-<h3 align="center">🚀 About Me</h3>
-
-###
-
-<p align="left">-    🇲🇽 Mexican coder exploring the digital frontier<br><br> -   📚 Currently studying at 42 Heilbronn<br><br>  -  💡 Always seeking new challenges and knowledge<br><br>-    🧠 Striving for a balance of efficiency and creativity in problem-solving</p>
-
-###
 
 <br clear="both">
 
+<h2 align="center"> 🚀 About Me </h2>
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
+
+  ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+  ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+  ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 </div>
 
+<table align="center">
+    <tr>
+      <td align="center">
+        <h1>🇲🇽 🇩🇪</h1>
+      </td>
+      <td align="center">
+        <h1>📚</h1>
+      </td>
+      <td align="center">
+        <h1>💡</h1>
+      </td>
+      <td align="center">
+        <h1>🧠</h1>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="border-top: none; margin: 0; padding-top: 0; vertical-align: top;">
+        <p>A unique mix of <strong>Mexican</strong> creativity and <strong>German</strong> efficiency, coding my way through the digital frontier.</p>
+      </td>
+      <td align="center" style="border-top: none; margin: 0; padding-top: 0; vertical-align: top;">
+        <p>Currently studying at <strong>42 Heilbronn</strong>.</p>
+      </td>
+      <td align="center" style="border-top: none; margin: 0; padding-top: 0; vertical-align: top;">
+        <p>Always seeking new challenges and knowledge.</p>
+      </td>
+      <td align="center" style="border-top: none; margin: 0; padding-top: 0; vertical-align: top;">
+        <p>Striving for a balance of <strong>efficiency and creativity</strong> in problem-solving.</p>
+      </td>
+    </tr>
+</table>
+
+  <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JorFik&layout=compact&theme=gruvbox&hide_border=false" height="150" alt="wakatime graph"  /> -->
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=JorFik&theme=gruvbox&column=7&margin-w=15&margin-h=15" alt="trophy" /> -->
+
 ###
 
-<h3 align="center">📜 My Coding Creed</h3>
+<h2 align="center">📜 My Coding Creed</h3>
 
-###
+<dev align="left">
 
-<p align="left">📈 Code Sustainability<br><br>-    "You must be replaceable" - your code should outlive you in any circumstance.<br><br>-    Writing clean, readable, and maintainable code for the entire team.<br><br>-    If only you can maintain your code, you're not irreplaceable; you're a liability.<br><br>🚨  Embracing Mistakes<br><br>-    Viewing errors as invaluable learning opportunities.<br><br>-    Persistently improving through lessons learned from each mistake.<br><br>-    A mistake is only fatal if we refuse to try again. Every error is a chance to rise stronger and wiser.<br><br>-    Striving for growth rather than perfection.<br><br>💡 Creative Problem-Solving<br><br>-    Exploring innovative solutions to coding challenges.<br><br>-    Balancing creativity with practicality and efficiency.<br><br>-    Finding unique approaches while maintaining performance and readability.<br><br>📚 Continuous Learning<br><br>-    Embracing every project as a learning opportunity, big or small.<br><br>-    Staying curious and open to new technologies and methodologies.<br><br>-    Adapting to the ever-evolving landscape of programming.<br><br>😊 Joy in Coding<br><br>-    Maintaining passion and enthusiasm for the craft of programming.<br><br>-    Finding satisfaction in elegant solutions and well-executed projects.<br><br>-    Sharing knowledge and collaborating with fellow developers.</p>
+1. ### 📈 Code Sustainability
+   - **"You must be replaceable"** - Your code should outlive you in any circumstance.
+   - Writing clean, readable, and maintainable code for the entire team.
+   - If only you can maintain your code, you're not irreplaceable; you're a liability.
 
-###
+1. ### 🚨 Embracing Mistakes
+   - Viewing errors as invaluable learning opportunities.
+   - Persistently improving through lessons learned from each mistake.
+   - A mistake is only fatal if we refuse to try again. Every error is a chance to rise stronger and wiser.
+   - Striving for growth rather than perfection.
+
+1. ### 💡 Creative Problem-Solving
+   - Exploring innovative solutions to coding challenges.
+   - Balancing creativity with practicality and efficiency.
+   - Finding unique approaches while maintaining performance and readability.
+
+1. ### 📚 Continuous Learning
+   - Embracing every project as a learning opportunity, big or small.
+   - Staying curious and open to new technologies and methodologies.
+   - Adapting to the ever-evolving landscape of programming.
+
+1. ### 😊 Find the joy in Coding
+   - Maintaining passion and enthusiasm for the craft of programming.
+   - Finding satisfaction in elegant solutions and well-executed projects.
+   - Sharing knowledge and collaborating with fellow developers.
+
+</dev>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JorFik/JorFik/output/github-snake-dark.svg" />
@@ -90,12 +119,11 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/JorFik/JorFik/output/github-snake.svg" />
 </picture>
 
-###
+<h2 align="center">🤝 Let's Connect!</h2>
 
-<h3 align="center">🤝 Let's Connect!</h3>
+<p align="center">
+  Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate or just chat about coding!  
+  <br><br>
+</p>
 
-###
-
-<p align="left">Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate or just chat about coding!<br><br>Happy coding! 🚀</p>
-
-###
+<h3 align="center"><strong>Happy coding! 🚀</strong></h3>
