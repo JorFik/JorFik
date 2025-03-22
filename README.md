@@ -1,5 +1,7 @@
 <p align="center">
+<!--START_SECTION:update_image-->
   <img src="./assets/link.gif" width="100%" alt="Github Banner" />
+<!--END_SECTION:update_image-->
 </p>
 
 ###
