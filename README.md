@@ -44,30 +44,60 @@
   <table align="center">
     <tr>
       <td align="center" rowspan="2">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorFik&locale=en&hide_title=true&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&bg_color=00000000&size_weight=0.5&count_weight=0.5&layout=pie" height="330" alt="languages graph" />
+        <picture>
+          <source
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JorFik&locale=en&card_width=320&langs_count=10&theme=gruvbox&hide_border=true&bg_color=00000000&size_weight=0.5&count_weight=0.5&layout=pie"
+            media="(prefers-color-scheme: dark)"
+          />
+          <source
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JorFik&locale=en&card_width=320&langs_count=10&theme=gruvbox_light&hide_border=true&bg_color=00000000&size_weight=0.5&count_weight=0.5&layout=pie"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorFik&locale=en&card_width=320&langs_count=10&theme=gruvbox&hide_border=true&bg_color=00000000&size_weight=0.5&count_weight=0.5&layout=pie" height="330" alt="languages graph" />
+        </picture>
       </td>
       <td align="center">
         <picture>
           <source
-            srcset="https://github-readme-stats.vercel.app/api?username=JorFik&show_icons=true&theme=gruvbox&bg_color=00000000&hide_border=true"
+            srcset="https://github-readme-stats.vercel.app/api?username=JorFik&show_icons=true&bg_color=00000000&theme=gruvbox&hide_border=true"
             media="(prefers-color-scheme: dark)"
           />
           <source
-            srcset="https://github-readme-stats.vercel.app/api?username=JorFik&show_icons=true"
+            srcset="https://github-readme-stats.vercel.app/api?username=JorFik&show_icons=true&bg_color=00000000&theme=gruvbox_light&hide_border=true"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
-          <img src="https://github-readme-stats.vercel.app/api?username=JorFik&show_icons=true&include_all_commits=true&count_private=true" height="150" alt="stats graph"/>
+          <img src="https://github-readme-stats.vercel.app/api?username=JorFik&show_icons=true&bg_color=00000000&theme=gruvbox_light&hide_border=true" height="150" alt="stats graph"/>
         </picture>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://streak-stats.demolab.com?user=JorFIk&theme=gruvbox&short_numbers=true&date_format=j%20M%5B%20Y%5D&background=83FFB200&mode=weekly&hide_border=true" height="150" alt="streak graph" />
+        <picture>
+          <source
+            srcset="https://github-readme-streak-stats.herokuapp.com?user=JorFik&theme=gruvbox&date_format=j%20M%5B%20Y%5D&hide_border=true&background=00000000"
+            media="(prefers-color-scheme: dark)"
+          />
+          <source
+            srcset="https://github-readme-streak-stats.herokuapp.com?user=JorFik&theme=gruvbox_light&date_format=j%20M%5B%20Y%5D&hide_border=true&background=00000000"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          />
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=JorFik&theme=gruvbox_light&date_format=j%20M%5B%20Y%5D&hide_border=true&background=00000000&mode=weekly" height="150" alt="streak graph" />
+        </picture>
       </td>
     </tr>
   </table>
 
-  ![Github Trophies](https://github-profile-trophy.vercel.app/?username=JorFik&theme=gruvbox&column=-1&margin-w=15&margin-h=15&no-frame=true&no-bg=true&rank=-C)
+  <picture>
+    <source
+      srcset="https://github-profile-trophy.vercel.app/?username=JorFik&theme=gruvbox&column=-1&margin-w=15&margin-h=15&no-frame=true&no-bg=true&rank=-C"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-profile-trophy.vercel.app/?username=JorFik&theme=flat&column=-1&margin-w=15&margin-h=15&no-frame=true&no-bg=true&rank=-C"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-profile-trophy.vercel.app/?username=JorFik&theme=gruvbox&column=-1&margin-w=15&margin-h=15&no-frame=true&no-bg=true&rank=-C" alt="Github Trophies" />
+  </picture>
 
   ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
