@@ -74,14 +74,14 @@
       <td align="center">
         <picture>
           <source
-            srcset="https://github-readme-streak-stats.herokuapp.com?user=JorFik&theme=gruvbox&date_format=j%20M%5B%20Y%5D&hide_border=true&background=00000000"
+            srcset="https://github-readme-streak-stats.herokuapp.com?user=JorFik&background=00000000&theme=gruvbox&date_format=j%20M%5B%20Y%5D&hide_border=true&mode=weekly"
             media="(prefers-color-scheme: dark)"
           />
           <source
-            srcset="https://github-readme-streak-stats.herokuapp.com?user=JorFik&theme=gruvbox_light&date_format=j%20M%5B%20Y%5D&hide_border=true&background=00000000"
+            srcset="https://github-readme-streak-stats.herokuapp.com?user=JorFik&background=00000000&theme=gruvbox-light&date_format=j%20M%5B%20Y%5D&hide_border=true&mode=weekly"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
-          <img src="https://github-readme-streak-stats.herokuapp.com?user=JorFik&theme=gruvbox_light&date_format=j%20M%5B%20Y%5D&hide_border=true&background=00000000&mode=weekly" height="150" alt="streak graph" />
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=JorFik&background=00000000&theme=gruvbox-light&date_format=j%20M%5B%20Y%5D&hide_border=true&mode=weekly" height="150" alt="streak graph" />
         </picture>
       </td>
     </tr>
